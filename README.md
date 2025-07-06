@@ -1,6 +1,9 @@
-# 💫 About Me:
-👋🏻Hey!<br>I'm a 20-year-old student from Alexandria, Egypt, currently studying Data Science at the Faculty of Computer and Data Science (FCDS) at Alexandria University<br><br>Alongside my studies, I work as a .NET Web Developer👨🏻‍💻, specializing in creating dynamic and responsive web applications.<br>My expertise includes full-stack development, API integration, and performance optimization.
+## 💫 About Me:
 
+👋🏻 Hey!  
+I'm a 21-year-old student from Alexandria, Egypt, currently studying Data Science at the Faculty of Computer and Data Science (FCDS), Alexandria University.
+
+Alongside my studies, I now work as a **Backend Developer** 👨🏻‍💻, focusing on building robust, scalable, and maintainable backend systems. My expertise includes designing APIs, database management, and optimizing server-side performance to support dynamic and responsive web applications.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ruN7RSF6au) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/morgma25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_morg_ma_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-ahmed-5b2b16261) 
