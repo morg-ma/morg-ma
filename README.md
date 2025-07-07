@@ -55,7 +55,7 @@
 ###
 
 <div align="left">
-  <a href="mailto://mahmoud.ahmed.25.9.24@gmail.com">
+  <a href="mailto:mahmoud.ahmed.25.9.24@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-ma/">
